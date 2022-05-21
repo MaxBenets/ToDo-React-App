@@ -1,0 +1,19 @@
+.form{
+    display: flex;
+}
+
+.addTask, .add{
+    padding: 10px;
+}
+
+.addTask{
+    width: 90%;
+    outline: 0;
+}
+.add{
+    width: 10%;
+    cursor: pointer;
+}
+.add_time{
+    width: 15%;
+}

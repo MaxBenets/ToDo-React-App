@@ -1,0 +1,14 @@
+.todo{
+    flex: 1;
+    max-width: 700px;
+}
+.header{
+    font-family: "Arial";
+    background: #343434;
+    padding: 20px;
+    text-align: center;
+}
+.h1{
+    color: #fff;
+    font-family: "Open Sans";
+}
