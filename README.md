@@ -4,4 +4,4 @@
 ### Todo page is made using React, redux, react-redux
 
 
-### Download this repository, and test him: <code>git clone https://github.com/RezzCode/ToDo-React-App.git</code>
+Download this repository, and test him: <code>git clone https://github.com/RezzCode/ToDo-React-App.git</code>
